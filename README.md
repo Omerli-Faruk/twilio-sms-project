@@ -37,7 +37,6 @@ A robust **Node.js** utility designed to interact with the **Twilio API**. This 
 
 
 1. **Clone the repository:**
-
    ```bash
-
    git clone [https://github.com/Omerli-Faruk/twilio-sms-project.git](https://github.com/Omerli-Faruk/twilio-sms-project.git)
+   ```
